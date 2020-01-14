@@ -1,0 +1,23 @@
+{
+  "name": "cookie-storage-client",
+  "version": "1.0.0",
+  "description": "cookie ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opelar/CookieStorage.git"
+  },
+  "keywords": [
+    "cookie",
+    "document"
+  ],
+  "author": "opelar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Opelar/CookieStorage/issues"
+  },
+  "homepage": "https://github.com/Opelar/CookieStorage#readme"
+}
