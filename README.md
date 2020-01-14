@@ -6,7 +6,7 @@ Manage `document.cookie` using the [Storage API][storage-api].
 # install
 
 ```shell
-npm install CookieStoage
+npm install cookie-storage-client
 ```
 
 ## example
