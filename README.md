@@ -45,7 +45,7 @@ Returns the cookie value for `key`.
 
 Sets the cookie at `key` to `value` with additional options:
 
-- `expires`: Will be parsed by `new Date(expires)` which accepts `String` formatted per RFC 2822 or ISO-8601, `Number` of milliseconds since 1 January 1970 00:00:00 UTC (Unix Epoch), or literal `Date` objects.
+- `expires`: see [cookie documentation][cookie-docs]
 - `path`: see [cookie documentation][cookie-docs]
 
 ## #removeItem(key)
